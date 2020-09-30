@@ -5,7 +5,7 @@ on:
 
 
 env:
-  ResourceGroup: ichno
+  ResourceGroup: ichno-lets-encrypt
 jobs:
   build:
     runs-on: ubuntu-latest
