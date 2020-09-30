@@ -3,6 +3,7 @@ on:
     branches:
       - master
 
+
 env:
   ResourceGroup: ichno
 jobs:
